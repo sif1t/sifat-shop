@@ -1,0 +1,37 @@
+.background{
+    background-image: url(/assets/img/sifat\ shop.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 250px;
+}
+.all2{
+    
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px black;
+    
+    
+}
+.all2:hover{
+    box-shadow: 5px 5px 5px 5px white;
+   
+    
+    transition: 1s;
+    box-shadow: 5px 5px 5px 5px black;
+    
+}
+.login{
+    text-align: center;
+}
+
+.watch{
+    border: 5px;
+    font-size: 35px;
+    font-family: monospace;
+    text-align: center;
+}
+.beg{
+    border: 5px;
+    font-size: 35px;
+    font-family: monospace;
+    text-align: center; 
+}
